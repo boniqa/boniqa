@@ -22,4 +22,4 @@ I'm Weronika – a product-minded software developer and creative technologist w
 
 </details>
 
-📫 [LinkedIn](https://www.linkedin.com/in/weronika-budnik/) | [Portfolio / Side Project](https://www.lomo.social/)
+📫 [LinkedIn](https://www.linkedin.com/in/weronika-budnik/) | [Lomo](https://www.lomo.social/)
